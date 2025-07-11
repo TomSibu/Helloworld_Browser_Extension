@@ -1,0 +1,10 @@
+{
+    "name": "Hello World Browser Extension",
+    "description": "A simple browser extension that displays 'Hello World' in a popup.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "hello.html",
+        "default_icon": "hello_icon.png"
+    }
+}
